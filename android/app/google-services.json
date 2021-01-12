@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "63626663984",
+    "project_id": "vibeus-conn",
+    "storage_bucket": "vibeus-conn.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:63626663984:android:d10eb44cc231676bec75f5",
+        "android_client_info": {
+          "package_name": "com.example.vibeus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "63626663984-el9ltp19p64e91aluqeuvaucgrjn8mui.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vibeus",
+            "certificate_hash": "cf6c4d3cb6345f494a576939feed90f6afcdb43c"
+          }
+        },
+        {
+          "client_id": "63626663984-70f1kdar6o5bli0q2muqgj82sectgcsb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnqueLOYyA11sYdq1-Ktjm8_pyrfYDYn8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "63626663984-70f1kdar6o5bli0q2muqgj82sectgcsb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "63626663984-vh93t7ohqjnnlmu25ik70uf13le3en7b.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.vibeus"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
