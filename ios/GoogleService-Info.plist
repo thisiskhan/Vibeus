@@ -3,11 +3,11 @@
 <plist version="1.0">
 <dict>
 	<key>CLIENT_ID</key>
-	<string>63626663984-vh93t7ohqjnnlmu25ik70uf13le3en7b.apps.googleusercontent.com</string>
+	<string>63626663984-epurho44gv9vh6e62a9g20s7fl8q91nq.apps.googleusercontent.com</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.63626663984-vh93t7ohqjnnlmu25ik70uf13le3en7b</string>
+	<string>com.googleusercontent.apps.63626663984-epurho44gv9vh6e62a9g20s7fl8q91nq</string>
 	<key>ANDROID_CLIENT_ID</key>
-	<string>63626663984-el9ltp19p64e91aluqeuvaucgrjn8mui.apps.googleusercontent.com</string>
+	<string>63626663984-1s2dh0o33cibgngo84f86vo6ro8o2rq3.apps.googleusercontent.com</string>
 	<key>API_KEY</key>
 	<string>AIzaSyBLU0H6JXKC8ZsRAOMnsyQXhpxZQhFcfRo</string>
 	<key>GCM_SENDER_ID</key>
@@ -15,7 +15,7 @@
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>com.example.vibeus</string>
+	<string>com.vibeus.vibeus</string>
 	<key>PROJECT_ID</key>
 	<string>vibeus-conn</string>
 	<key>STORAGE_BUCKET</key>
@@ -31,6 +31,6 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:63626663984:ios:6e4d8d5ec3005e25ec75f5</string>
+	<string>1:63626663984:ios:f03bf39b32c2fca4ec75f5</string>
 </dict>
 </plist>
