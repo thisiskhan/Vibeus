@@ -7,17 +7,17 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:63626663984:android:2932f5db8a3ba7b4ec75f5",
+        "mobilesdk_app_id": "1:63626663984:android:99cbbca90a9617f4ec75f5",
         "android_client_info": {
-          "package_name": "com.vibeus.vibeus"
+          "package_name": "com.plutter.vibeus"
         }
       },
       "oauth_client": [
         {
-          "client_id": "63626663984-1s2dh0o33cibgngo84f86vo6ro8o2rq3.apps.googleusercontent.com",
+          "client_id": "63626663984-s9gfhl0uroh9ucqnrpuupqfgsiverqc7.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.vibeus.vibeus",
+            "package_name": "com.plutter.vibeus",
             "certificate_hash": "cf6c4d3cb6345f494a576939feed90f6afcdb43c"
           }
         },
@@ -39,10 +39,10 @@
               "client_type": 3
             },
             {
-              "client_id": "63626663984-epurho44gv9vh6e62a9g20s7fl8q91nq.apps.googleusercontent.com",
+              "client_id": "63626663984-35hcu6nn02i3o3aofrks58u051cqraki.apps.googleusercontent.com",
               "client_type": 2,
               "ios_info": {
-                "bundle_id": "com.vibeus.vibeus"
+                "bundle_id": "com.plutter.vibeus"
               }
             }
           ]
